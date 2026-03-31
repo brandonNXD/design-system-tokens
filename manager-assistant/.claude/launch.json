@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "manager-assistant",
+      "runtimeExecutable": "/Users/brandonherdrick/.nvm/versions/node/v24.14.0/bin/npm",
+      "runtimeArgs": ["run", "dev"],
+      "port": 3000,
+      "autoPort": true
+    }
+  ]
+}
